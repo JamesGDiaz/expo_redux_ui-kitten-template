@@ -6,6 +6,8 @@ It includes:
 - State persistence using redux-persist
 - UI theme from [Kitten-UI](https://akveo.github.io/react-native-ui-kitten/)
 - Icon set from [Eva Icons](https://github.com/akveo/eva-icons/)
+- Built-in navigation using react-navigation
+- Authentication flow from remote API
 
 
 ## Installation
